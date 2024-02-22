@@ -1,0 +1,5 @@
+1. OPD
+2. IPD
+3. Emergency
+4. Pharmacy
+5. Quit
